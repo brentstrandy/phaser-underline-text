@@ -1,3 +1,9 @@
+/**
+* @author       Brent Strandy <brent@teaching.com>
+* @copyright    2017 Teaching.com
+* @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
+*/
+
 import Phaser from 'phaser';
 
 class UnderlineText extends Phaser.Text {
